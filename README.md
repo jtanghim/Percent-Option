@@ -7,8 +7,8 @@ and require more time to analyze as it ranges from 0 to 100. My program prompts 
 those bases have. It analyses each of these bases and informs the user if it is possible to tie/win the war if the selected base is attacked. 
 It also provides the user with the necessary percentage needed to either tie/win.
 
-#Built With
+# Built With
 IntelliJ IDEA
 
-#Author
+# Author
 James Tang Him
